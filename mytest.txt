@@ -9,3 +9,6 @@ fuck fuck fuck? I don't know why???
 
 
 I want to use this branch to test how two different branches finally merge together
+
+
+will the modification by the current branch dev have an effect on another branch master? Just have a try!!!
